@@ -1,6 +1,6 @@
+#Data/
+#DependLib/
 build/
-Data/
-DependLib/
 Log/
 *.swp
 
